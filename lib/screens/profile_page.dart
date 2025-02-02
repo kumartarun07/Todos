@@ -73,6 +73,7 @@ class _ProfilePageState extends State<ProfilePage> {
                           maxWidth: 200,
                           uiSettings: [
                             AndroidUiSettings(
+
                               toolbarTitle: "Cropper",
                               toolbarColor: Colors.deepOrange,
                               toolbarWidgetColor: Colors.white,

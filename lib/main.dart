@@ -1,7 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:todos_app/firebase_options.dart';
-import 'package:todos_app/screens/home_page.dart';
 import 'package:todos_app/screens/splash_page.dart';
 
 void main() async
